@@ -1,2 +1,2 @@
 # ChatBOT
- Trying to Building a ChatBOT in python like ChatGPT
+This ChatBOT is a learning bot that will remember information form the knowledgebase.json
